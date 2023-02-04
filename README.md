@@ -36,6 +36,10 @@
 | [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)|
 | [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) |
 | [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) |
+| [Autofish](https://www.curseforge.com/minecraft/mc-mods/autofish) |
+| [ToroHealth Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators) |
+| [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) |
+| [Gamma Utils](https://www.curseforge.com/minecraft/mc-mods/gamma-utils) |
 
 
 ## 📜 附加
