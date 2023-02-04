@@ -1,17 +1,18 @@
-# 平常在用的模組
+# 💠 基本模組列表
+這裡整理出我平常玩Minecraft會安裝的模組
 
-## 材質
+## 📚 材質
 | 名稱 | 衝突 | 備註 |
 | :---- | :---- | :---- |
 | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) |
 | [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen) |
 
-## 光影
+## 💡 光影
 | 名稱 | 衝突 | 備註 |
 | :---- | :---- | :---- |
 | [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) |
 
-## 效能優化
+## 🖥️ 效能優化
 | 名稱 | 衝突 | 備註 |
 | :---- | :---- | :---- |
 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) |
@@ -20,7 +21,7 @@
 | [Lithium (Fabric)](https://www.curseforge.com/minecraft/mc-mods/lithium) |
 | [Not Enough Crashes (Fabric)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) |
 
-## 支援
+## 🤖 支援
 | 名稱 | 衝突 | 備註 |
 | :---- | :---- | :---- |
 | [Apple Skin](https://www.curseforge.com/minecraft/mc-mods/appleskin) |
@@ -37,7 +38,7 @@
 | [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) |
 
 
-## 附加
+## 📜 附加
 | 名稱 | 衝突 | 備註 |
 | :---- | :---- | :---- |
 | [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) |
